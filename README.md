@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjar Isaboev
-- 👀 I’m interested in Mobile development 📲💻 (Android), English🇬🇧, Football⚽️ 
+- 👀 I’m interested in Mobile development 📲💻 (Android), Englis, Football⚽️ 
 - 🌱 I’m currently learning Android development (Java, Kotlin)
 - 💞️ I’m looking to collaborate on international IT companies
 - 📫 How to reach me sanjarisaboev@yandex.com
